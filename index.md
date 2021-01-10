@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+###个人信息
+#### 姓名 林进文
+#### 学历 本科
+#### 学校 韶关学院
+#### 邮箱: ljwen44@163.com
+#### 外语: CET4
 
-You can use the [editor on GitHub](https://github.com/ljwen44/ljwen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###  自我评价
+-本人有较扎实的基础知识，善于学习和进取;
+-对互联网有浓厚兴趣，喜欢软件开发;
+-了解多种编程语言，有一定的自学能力;
+-乐观开朗，容易相处，有强烈的责任心和团队合作意识;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 荣誉奖励
+-国家奖学金
+-“三好学生标兵”、“三好学生”、“学习优秀奖”、“社会工作先进个人”等荣誉称号
+-第十三届中国大学生计算机设计大赛国赛三等奖
+-第十一届中国大学生服务外包创新创业大赛区域赛A类三等奖
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ljwen44/ljwen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 项目研究
+#### 学校（2020.07-2020.10）
+- **交通时空大数据分析与挖掘**
+项目描述：交通时空大数据是以手机信令数据为对象、现有的大数据体系架构和大数据服务组织为基础，完成交通分析，大数据分析模型和算法的研制，实现人口的出行分析，驻留分析，人群密度分析和出行方式分析等。
+技术架构：SpringMVC+Spring+Mybatis+Activemq+Vue+Bootstrap+Stomp.
+责任描述: 完成页面设计并用Vue+Bootstrap框架进行搭建；使用Stomp完成页面的数据监听，实现实时数据展示；使用百度的Echarts和高德地图AMap进行数据渲染；
+技术描述：使用Vue前端框架进行开发，自定义组件完成数据的渲染；使用高德地图作为项目底层展示，利用高德地图的API接口结合后台数据进行渲染；使用Echarts的图表渲染图表信息；使用Stomp协议连接服务器，完成数据监听，实现实时数据的展示
